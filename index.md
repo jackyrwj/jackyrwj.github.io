@@ -9,7 +9,7 @@ layout: page
 
 <!-- I am a senior student majoring in **EECS** at Fuzhou University and Maynooth University (Ireland, combined degrees). Currently, I work as a research assistant in the IIoT-Lab, advised by [Prof. Zhezhuang Xu](https://www.researchgate.net/profile/Zhezhuang-Xu). I also spent a lovely summer research program with [Prof. Pietro Liò](https://www.cl.cam.ac.uk/~pl219/)'s team at Cambridge University. -->
 
-Here is **Wenjie Rao (饶文杰)**. I am a third-year graduate student majoring in **computer technology**. I work at the Institute of Future Media Technology and Computing at Shenzhen University. My research areas include emotion recognition and model pruning. If you are interested in any of my aspects, I am happy to chat. and cooperation, please [email](mailto:raowenjieszu@foxmail.com) me.
+Here is **Wenjie Rao (饶文杰)**. I am a third-year graduate student majoring in **computer technology**. I work at the Institute of Future Media Technology and Computing at Shenzhen University. My research areas include emotion recognition and model pruning. If you are interested in any of my aspects, please [email](mailto:raowenjieszu@foxmail.com) me.
 <br>
 
 ---
