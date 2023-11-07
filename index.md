@@ -9,7 +9,7 @@ layout: page
 
 <!-- I am a senior student majoring in **EECS** at Fuzhou University and Maynooth University (Ireland, combined degrees). Currently, I work as a research assistant in the IIoT-Lab, advised by [Prof. Zhezhuang Xu](https://www.researchgate.net/profile/Zhezhuang-Xu). I also spent a lovely summer research program with [Prof. Pietro Liò](https://www.cl.cam.ac.uk/~pl219/)'s team at Cambridge University. -->
 
-Here is **Wenjie Rao (饶文杰)**.I am a third-year graduate student majoring in **computer technology**. I am at the Institute of Future Media Technology and Computing at Shenzhen University. My research areas include emotion recognition and model pruning. If you are interested in any of my aspects, I am happy to chat. and cooperation, please [email](mailto:raowenjieszu@foxmail.com) me.
+Here is **Wenjie Rao (饶文杰)**. I am a third-year graduate student majoring in **computer technology**. I work at the Institute of Future Media Technology and Computing at Shenzhen University. My research areas include emotion recognition and model pruning. If you are interested in any of my aspects, I am happy to chat. and cooperation, please [email](mailto:raowenjieszu@foxmail.com) me.
 <br>
 
 ---
@@ -40,7 +40,7 @@ My current research focuses on practical problems that artificial intelligence f
 1. **Model Compression by Network Pruning for Visual Media Evoked Emotion Recognition**
    **Wenjie Rao**，Shenghua Zhong  
    IJCNN 2023 | [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10192035) | [code](https://github.com/jackyrwj/EEG-Model-Network-Pruning)
-2. **Knowledge-guided Network Pruning for EEG-based Emotion Recognition**
+2. **Knowledge-guided Network Pruning for EEG-based Emotion Recognition**  
    **Wenjie Rao**，Shenghua Zhong，Zhi Zhang，Yan Liu  
    BIBM 2023 | paper | code
 
@@ -50,7 +50,7 @@ My current research focuses on practical problems that artificial intelligence f
 ---
 ## Work experience
 
-- **Alibaba Fliggy**, Vacation Technology Quality Department, Intern
+- **Alibaba - Fliggy**, Vacation Technology Quality Department, Intern
 
 
 <br>
