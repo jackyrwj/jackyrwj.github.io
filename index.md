@@ -37,7 +37,7 @@ My current research focuses on practical problems that artificial intelligence f
 
 ### Conference Papers:
 
-1. **Model Compression by Network Pruning for Visual Media Evoked Emotion Recognition**
+1. **Model Compression by Network Pruning for Visual Media Evoked Emotion Recognition**  
    **Wenjie Rao**，Shenghua Zhong  
    IJCNN 2023 | [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10192035) | [code](https://github.com/jackyrwj/EEG-Model-Network-Pruning)
 2. **Knowledge-guided Network Pruning for EEG-based Emotion Recognition**  
